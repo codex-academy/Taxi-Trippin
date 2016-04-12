@@ -1,3 +1,8 @@
+---
+layout: default
+title: Taxi trippin'!
+---
+
 # Taxi trippin'!
 
 The owner of some taxis wants us to do some calculations for them on their pack of taxis and the trips that they make. They own taxis in Cape Town and Durban.
@@ -12,4 +17,4 @@ The owner of some taxis wants us to do some calculations for them on their pack 
 * Perform a calculation on attributes of objects matching a condition
 * Perform a calculation on attributes of grouped of objects
 
-We'll go through each idea in theory first, then in code. 
+We'll go through each idea in theory first, then in code.

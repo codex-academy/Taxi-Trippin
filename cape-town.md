@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cape Town
+---
+
 # Cape Town taxis
 
 Here's the data we have for Cape Town.
@@ -41,30 +46,23 @@ var capeTownTaxis = [
 
 Now let's use TDD to write code that answers these questions.
 
-### Find the total of one attribute in a list of objects
+Find the total of one attribute in a list of objects
+<br>**How many trips did all the taxis make?**
 
-How many trips did all the taxis make?
+Find the minimum of one attribute in a list of objects
+<br>**What's the lowest number of trips that any taxi in Cape Town made?**
 
-### Find the minimum of one attribute in a list of objects
+Find all the objects matching a specific condition
+<br>**What records do we have for CA 123 456?**
 
-What's the lowest number of trips that any taxi in Cape Town made?
+Find the total of one attribute for objects in a list matching a condition
+<br>**How many trips did CA 234 567 make?**
 
-### Find all the objects matching a specific condition
+Find all the values of one attribute of objects matching a condition
+<br>**What are the names of all the routes that CA 345 678 took?**
 
-What records do we have for CA 123 456?
+Perform a calculation on attributes of objects matching a condition
+<br>**What are the total earnings for CA 234 567?**
 
-### Find the total of one attribute for objects in a list matching a condition
-
-How many trips did CA 234 567 make?
-
-### Find all the values of one attribute of objects matching a condition
-
-What are the names of all the routes that CA 345 678 took?
-
-### Perform a calculation on attributes of objects matching a condition
-
-What are the total earnings for CA 234 567?
-
-### Perform a calculation on attributes of grouped of objects
-
-What are the total earnings for each taxi?
+Perform a calculation on attributes of grouped of objects
+<br>**What are the total earnings for each taxi?**

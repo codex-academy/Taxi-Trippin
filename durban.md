@@ -1,3 +1,8 @@
+---
+layout: default
+title: Durban
+---
+
 # Durban taxis
 
 Here's our Durbs data.
