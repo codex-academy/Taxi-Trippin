@@ -1,71 +1,15 @@
-# You trippin!
+# Taxi trippin'!
 
-The owner of some taxis wants us to do some calculations for them on their pack of taxis. They own taxis in Cape Town, Durbs, and Jozi.
+The owner of some taxis wants us to do some calculations for them on their pack of taxis and the trips that they make. They own taxis in Cape Town and Durban.
 
-```javascript
-var capeTownTaxis = [
-  {
-    "RegistrationNumber": "CA 123 456",
-    "Route": "Cape Town - Bellville",
-    "Fare": 13,
-    "Trips": 9
-  },
-  {
-    "RegistrationNumber": "CA 234 567",
-    "Route": "Cape Town - Gugulethu",
-    "Fare": 12,
-    "Trips": 11
-  },
-  {
-    "RegistrationNumber": "CA 345 678",
-    "Route": "Cape Town - Langa",
-    "Fare": 8,
-    "Trips": 13
-  },
+## Learning objectives
 
-];
+* Find the total of one attribute in a list of objects
+* Find the minimum of one attribute in a list of objects
+* Find all the objects matching a specific condition
+* Find the total of one attribute for objects in a list matching a condition
+* Find all the values of one attribute of objects matching a condition
+* Perform a calculation on attributes of objects matching a condition
+* Perform a calculation on attributes of grouped of objects
 
-var durbanTaxis = [
-  {
-    "RegistrationNumber": "ND 123 456",
-    "Route": "Durban - UKZN",
-    "Fare": 7,
-    "Trips": 14
-  },
-  {
-    "RegistrationNumber": "ND 234 567",
-    "Route": "Durban - Umlazi Station",
-    "Fare": 14,
-    "Trips": 9
-  },
-  {
-    "RegistrationNumber": "ND 345 678",
-    "Route": "Durban - Umbilo",
-    "Fare": 7,
-    "Trips": 18
-  },
-
-];
-
-var joziTaxis = [
-  {
-    "RegistrationNumber": "AB 123 456 GP",
-    "Route": "Sandton - Alexandra",
-    "Fare": 5,
-    "Trips": 21
-  },
-  {
-    "RegistrationNumber": "CD 234 567 GP",
-    "Route": "Sandton - Hillbrow",
-    "Fare": 14,
-    "Trips": 26
-  },
-  {
-    "RegistrationNumber": "EF 345 678 gp",
-    "Route": "Sandton - Midrand",
-    "Fare": 6,
-    "Trips": 19
-  },
-
-];
-```
+We'll go through each idea in theory first, then in code. 
