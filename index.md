@@ -14,7 +14,7 @@ The owner of some taxis wants us to do some calculations for them on their pack 
 * Find all the objects matching a specific condition
 * Find the total of one attribute for objects in a list matching a condition
 * Find all the values of one attribute of objects matching a condition
-* Perform a calculation on attributes of objects matching a condition
-* Perform a calculation on attributes of grouped of objects
+* Do a calculation on attributes of objects matching a condition
+* Do a calculation on attributes of grouped of objects
 
 We'll go through each idea in theory first, then in code.
