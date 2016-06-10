@@ -61,8 +61,8 @@ Find the total of one attribute for objects in a list matching a condition
 Find all the values of one attribute of objects matching a condition
 <br>**What are the names of all the routes that CA 345 678 took?**
 
-Perform a calculation on attributes of objects matching a condition
+Do a calculation on attributes of objects matching a condition
 <br>**What are the total earnings for CA 234 567?**
 
-Perform a calculation on attributes of grouped of objects
+Do a calculation on attributes of grouped of objects
 <br>**What are the total earnings for each taxi?**
